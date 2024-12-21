@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Exam" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColorHint">@color/black</item>
+
+    </style>
+
+    <style name="Theme.Exam" parent="Base.Theme.Exam" />
+</resources>
